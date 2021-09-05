@@ -1,11 +1,8 @@
-##Olá! Eu sou Bruno-Alves-Pacheco
+##Olá! Me chamo Bruno e Esse é meu Git
 
 ° 🐱‍👤 Estou estudando Front-end ( HTML, CSS3, JavaScript )
-
-° 🎉 Estou cursando Ensino Superior em ADS
-
-° 🤗 Prentendo me Tornar um Fullstack
-
+° 🎉 Estou cursando Ensino Superior em ADS 
+° 🤗 Prentendo me Tornar um Fullstack 
 ##
 
  <div>
