@@ -1,12 +1,11 @@
 ##Olá! Me chamo Bruno e Esse é meu Git
 
-° 🐱‍👤 Estou estudando Front-end ( HTML, CSS3, JavaScript )
+° 🐱‍👤 Estou estudando Programação ( HTML, CSS, C/C++, java )
 
 
 ° 🎉 Estou cursando Ensino Superior em ADS 
 
 
-° 🤗 Prentendo me Tornar um Fullstack 
 ##
 
  <div>
