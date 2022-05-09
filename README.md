@@ -1,6 +1,6 @@
 ##Olá! Me chamo Bruno e Esse é meu Git
 
-° 🐱‍👤 Estou estudando Programação ( HTML, CSS, C/C++, java )
+° 🐱‍👤 Estou estudando Programação ( C, C++, java )
 
 
 ° 🎉 Estou cursando Ensino Superior em ADS 
@@ -15,9 +15,9 @@
 </div>
  <h3> Minhas Skill </h3>
 <div style="display: inline_block"><br>
-  <img align="center" alt="Bruno-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Bruno-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Bruno-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Bruno-Java" height="30" width="35" src="https://cdn-icons-png.flaticon.com/512/226/226777.png">
+  <img align="center" alt="Bruno-C++" height="30" width="35" src="https://cdn-icons-png.flaticon.com/512/6132/6132221.png">
+  <img align="center" alt="Bruno-C" height="30" width="35" src="https://cdn-icons.flaticon.com/png/512/3665/premium/3665923.png?token=exp=1652136017~hmac=0b50523daf20509231f355404e6ae5fd">
 </div>        
         
  ##       
